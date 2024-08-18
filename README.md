@@ -1,2 +1,2 @@
 # EmployeeControl
-Bacckend control of employees with crud operations
+Backend control of employees with crud operations
